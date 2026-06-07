@@ -1,3 +1,3 @@
 # the Unguarded Experience
 
-A basic fork of 3kh0 Lite. This is just a personal project of mine.
+A work in progress game website. This is based off 3kh0 lite. I have no coding experience so this will take a while to complete haha. This is a personal project of mine. If you would like to make a website like this of your own, please go to https://github.com/3kh0/3kh0-lite. It is the original project this is forked off of. No clue how long this will last until the school blocks this with GoGuardian.
