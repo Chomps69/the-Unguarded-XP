@@ -5,15 +5,15 @@ A work in progress game website. This is a fork of 3kh0 lite. I have no coding e
 Credit to 3kh0 for the original repo and a whole lot of games.
 Also Credit to tw31122007 for some of html games.
 
-# Planned Games
 
-These games might be added soon.
+# Some answers to some questions you may have
 
--House of Hazards
+Q: Will I add any more games?
+A: Maybe. It depends on the website's loading time.
 
--Subway Surfers
+Q: Can someone make me an unblocked games website?
+A: Don't count on it. Make it yourself.
 
--Crossy Road
 
 # Known Issues
 
