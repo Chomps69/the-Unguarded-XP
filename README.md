@@ -1,21 +1,21 @@
 # the Unguarded Experience
 
-A work in progress game website. This is a fork of 3kh0 lite. I have no coding experience so this will take a while to complete haha. This is a personal project of mine. Feel free to fork this and do whatever the heck you wanna do with it, but give credit.
+A game website, forked off of 3kh0 lite. I have no coding experience so this took a bit to complete haha. This is a personal project of mine. Feel free to fork this and do whatever the heck you wanna do with it, but give credit.
 
-Credit to 3kh0 for the original repo and a whole lot of games.
-Also Credit to tw31122007 for some of html games.
+Credit to 3kh0 for the original repo and the games
 
 
-# Some answers to some questions you may have
+# Added Games
 
-Q: Will I add any more games?
+Some games have been added to the website.
 
-A: Maybe. It depends on the website's loading time.
+-Subway Surfers (New York)
 
-Q: Can someone make me an unblocked games website?
+# Removed Games
 
-A: Don't count on it. Make it yourself.
+Unfortunately, the website ran poorly after adding just one more game, so I removed uninteresting games to maintain smooth loading times.
 
+-Glass City
 
 # Known Issues
 
