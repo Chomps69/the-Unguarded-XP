@@ -11,7 +11,7 @@ These games might be added soon.
 
 -House of Hazards
 
--Subway Surfers (added)
+-Subway Surfers
 
 -Crossy Road
 
