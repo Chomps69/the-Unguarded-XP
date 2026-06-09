@@ -320,6 +320,11 @@
     "title": "Hacker Typer"
   },
   {
+    "link": "projects/house-of-hazards/index.html",
+    "imgSrc": "projects/house-of-hazards/thumbnail.jpg",
+    "title": "House of Hazards"
+  },
+  {
     "link": "projects/hba/index.html",
     "imgSrc": "projects/hba/hoverbotarena.jpg",
     "title": "Hover Bot Arena"
