@@ -29,6 +29,7 @@ Games that might be added later will be shown here.
 
 - Super Mario 64 doesn't play audio. Tested on Windows 11, Firefox with Ublock Origin.
 - Error screen does not take you to the homepage.
+- House of Hazards doesn't load properly. This issue is currently under investigation.
 
 
 # I want to fork your repository!
