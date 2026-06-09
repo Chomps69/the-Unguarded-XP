@@ -9,8 +9,8 @@ Credit to 3kh0 for the original repo and the games
 
 Some games have been added to the website.
 
--Subway Surfers(New York) 
--Drive Mad
+- Subway Surfers (New York
+- Drive Mad
 
 # Removed Games
 
