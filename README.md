@@ -23,7 +23,7 @@ Unfortunately, the website runs poorly after adding too many games, so I removed
 Games that might be added later will be shown here.
 
 - Monkey Mart
-- House of Hazards
+- House of Hazards (Note: while this is technically on here, it doesn't actually load properly.)
 
 # Known Issues
 
