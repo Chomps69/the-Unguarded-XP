@@ -34,4 +34,4 @@ Games that might be added later will be shown here.
 
 # I want to fork your repository!
 
-First of all - I'm flattered. Second of all, if you do plan to fork it, credit would be nice. Also, you should give credit to 3kh0 too. Anyway, once you forked my repository, you'll have to edit the file paths to make sure they work. Be mindful about adding too many games, because the Games page will be stuck on a loading screen if it takes too much memory. Feel free to edit whatever the heck you want with it. But don't charge money for it, (it's fine to ask for donations though) and more importantly, don't give people a virus.
+First of all - I'm flattered. Second of all, if you do plan to fork it, credit would be nice. Also, you should give credit to 3kh0 too. Anyway, once you forked my repository, you'll have to edit the file paths to make sure they work. Be mindful about adding too many games, because the Games page will be stuck on a loading screen if it takes too much memory. Feel free to edit whatever the heck you want with it. But don't charge money for it, (it's fine to ask for donations though) and more importantly, don't give people a virus. 
